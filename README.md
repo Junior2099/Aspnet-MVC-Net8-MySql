@@ -1,4 +1,4 @@
-# Aspnet---MVC---Net8-SqlServer
+# Aspnet---MVC---Net8-MySql
 um projeto de cadastro de usuários com banco de dados sqlserver
 
 
