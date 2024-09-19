@@ -2,7 +2,10 @@
 um projeto de cadastro de usuários com banco de dados MySql
 
 
+
 ## Extrair o arquivo 7-zip
+### Necessário criar o banco MySql com o nome "banco" tudo minúsculo sem aspas
+
 ![image](https://github.com/user-attachments/assets/759de966-e5cc-4d37-8e13-a300e36204ad)
 
 ![image](https://github.com/user-attachments/assets/0e5866f7-97d8-484c-8f9d-13897d0bc7b7)
