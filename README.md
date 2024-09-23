@@ -17,3 +17,4 @@ um projeto de cadastro de usuários com banco de dados MySql
 ![{6181AB65-0006-46C8-A231-06D0FAE8B5FF}](https://github.com/user-attachments/assets/8c2c498d-f1a9-4c90-bbf2-fb3ff6900f72)
 
 
+Banco de dados usado é MySql
