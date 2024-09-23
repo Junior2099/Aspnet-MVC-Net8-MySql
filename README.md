@@ -5,6 +5,7 @@ um projeto de cadastro de usuários com banco de dados MySql
 
 ## Extrair o arquivo 7-zip
 ### crie um banco de dados e no appsettings.json coloque os dados do banco usuário e senha..
+#### Banco de dados usado é MySql extraia e import os dados do backup database
 
 ![{BB611C3B-1E06-4762-A6BB-E656417056AE}](https://github.com/user-attachments/assets/3415b6d1-5a42-4817-94c5-87177ad41e90)
 
@@ -17,4 +18,3 @@ um projeto de cadastro de usuários com banco de dados MySql
 ![{6181AB65-0006-46C8-A231-06D0FAE8B5FF}](https://github.com/user-attachments/assets/8c2c498d-f1a9-4c90-bbf2-fb3ff6900f72)
 
 
-Banco de dados usado é MySql
