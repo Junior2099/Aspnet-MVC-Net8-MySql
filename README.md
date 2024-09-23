@@ -4,15 +4,16 @@ um projeto de cadastro de usuários com banco de dados MySql
 
 
 ## Extrair o arquivo 7-zip
-### Necessário criar o banco MySql com o nome "banco" tudo minúsculo sem aspas
+### crie um banco de dados e no appsettings.json coloque os dados do banco usuário e senha..
 
-![image](https://github.com/user-attachments/assets/759de966-e5cc-4d37-8e13-a300e36204ad)
+![{BB611C3B-1E06-4762-A6BB-E656417056AE}](https://github.com/user-attachments/assets/3415b6d1-5a42-4817-94c5-87177ad41e90)
 
-![image](https://github.com/user-attachments/assets/0e5866f7-97d8-484c-8f9d-13897d0bc7b7)
+![{B4844F03-562A-452E-B005-08A6689608A4}](https://github.com/user-attachments/assets/0f2dceea-8e49-44e0-90f4-6646b56fbdcb)
 
-![image](https://github.com/user-attachments/assets/376754ae-0460-4c4b-baa2-dd203a029bab)
+![{0FC3B395-685A-417C-B721-871F595C49B1}](https://github.com/user-attachments/assets/928921e8-120b-42e8-943c-caf78dcffd54)
 
-![image](https://github.com/user-attachments/assets/e1e36cb9-81ea-49bf-87f0-45d218bc8ee1)
+![{31A3BA26-F6DB-41BB-9956-FB330135CD09}](https://github.com/user-attachments/assets/f77ca3ea-7fa1-4051-8c1b-c334ae7d4ca2)
 
+![{6181AB65-0006-46C8-A231-06D0FAE8B5FF}](https://github.com/user-attachments/assets/8c2c498d-f1a9-4c90-bbf2-fb3ff6900f72)
 
 
